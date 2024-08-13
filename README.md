@@ -38,7 +38,6 @@ test_data['date']= pd.to_datetime(test_data['date'])
 
 - **Performance**:
   - MAE (Mean Absolute Error): 15.91
-  - [Add any additional performance metrics or details]
 
 ### 2. Prophet Time Series Forecasting
 
